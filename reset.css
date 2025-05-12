@@ -1,0 +1,8 @@
+body {
+    font-family: 
+      -apple-system, BlinkMacSystemFont, /* 优先用苹果和Chrome系统字体 */
+      "Segoe UI", Roboto, "Helvetica Neue", Arial, /* Windows和Android */
+      "PingFang SC", "Noto Sans CJK SC", "Microsoft YaHei", /* 中文字体 */
+      "Hiragino Sans GB", "WenQuanYi Micro Hei", /* 备用中文字体 */
+      sans-serif; /* 最后兜底 */
+  }
